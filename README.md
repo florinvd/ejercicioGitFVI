@@ -5,4 +5,5 @@
 **Educational Porpouse: "Virus" Simulation**
 
 Este repositorio contiene un script que simula el comportamiento de un virus informático. No se realizan acciones dañinas al sistema.
+
 This repository contains a script that simulates the behaviour of a computer virus. No harmful actions are performed on the system.
